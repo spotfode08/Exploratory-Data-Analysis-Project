@@ -1,3 +1,2 @@
-#Exploratory Data Analysis
-##Telco Churn Analysis
-###Project Objective
+# Exploratory Data Analysis
+## Project Objective
