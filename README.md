@@ -1,2 +1,3 @@
 # Exploratory Data Analysis
-## Project Objective
+## Telco Churn Analysis
+### Project Objective
