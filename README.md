@@ -2,7 +2,7 @@
 ## Telco Churn Analysis
 ### Project Objective
 #### Question (KPIs)
-1)No. of Customer Churned
+- 1)No. of Customer Churned
 2)Percentage of Customer Churned
 3)Churn by gender Basis
 4)Churn by Senior Citizen 
