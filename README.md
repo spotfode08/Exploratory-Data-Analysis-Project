@@ -18,3 +18,8 @@
 #### Results
 - Count of customer
 ![Count of Customer Churn](https://github.com/user-attachments/assets/1d623f11-2337-4631-af63-862e87df0bca)
+- Churn by Gender
+![Churn by gender](https://github.com/user-attachments/assets/917ef322-0252-437c-aa4e-e9cef0d15e9a)
+- Churn by Senior Citizen
+![Churn by Senior Citizen](https://github.com/user-attachments/assets/08b5fc3e-a427-476d-aae1-3334ee77abf4)
+
